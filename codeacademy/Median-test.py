@@ -1,4 +1,6 @@
-'''
+#!/usr/bin/env python3
+
+"""
 
 John's Note:
 
@@ -6,8 +8,7 @@ As of this version, the function appears to be working.
 
 Look for a way to simplify and remove all the debugs
 
-'''
-
+"""
 
 import random
 
